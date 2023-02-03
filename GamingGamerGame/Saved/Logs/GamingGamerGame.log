@@ -921,3 +921,415 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.03-21.07.59:638][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
 [2023.02.03-21.08.01:018][889]LogSlate: Window 'Delete Assets' being destroyed
 [2023.02.03-21.08.01:066][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.02.03-21.10.05:608][553]LogEditorViewport: Clicking Background
+[2023.02.03-21.11.06:903][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.02.03-21.11.06:907][954]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu' took 0.048
+[2023.02.03-21.11.06:910][954]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/MainMenu/MainMenu] ([2] browsable assets)...
+[2023.02.03-21.11.06:913][954]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/MainMenu/MainMenu.MainMenu]
+[2023.02.03-21.11.06:913][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/MainMenu/MainMenu]
+[2023.02.03-21.11.07:033][954]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GUI/MainMenu/MainMenu_Auto2
+[2023.02.03-21.11.07:035][954]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/MainMenu_Auto2C2776DBD4332F2BBF7D547ABEC0A66DD.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Autosaves/Game/GUI/MainMenu/MainMenu_Auto2.uasset'
+[2023.02.03-21.11.07:040][954]LogFileHelpers: Auto-saving content packages took 0.134
+[2023.02.03-21.14.02:735][540]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.03-21.15.03:446][ 94]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/UMG/Public/Components/Button.h 
+[2023.02.03-21.15.03:760][ 94]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/UMG/Public/Components/Button.h : 42
+[2023.02.03-21.15.03:760][ 94]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:767][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:768][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:769][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:770][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:771][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:772][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:773][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:774][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:775][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:776][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:777][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:777][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:777][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:777][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:777][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:777][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:781][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:781][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:788][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:789][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:789][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:808][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:808][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:814][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:861][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:876][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:880][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:880][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:894][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:903][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:908][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:908][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:908][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:908][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:909][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:910][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:911][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:912][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:913][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:914][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:915][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:916][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:917][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:918][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:918][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:918][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:918][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:918][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:918][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:918][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:918][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:923][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:923][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:927][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:928][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:928][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:950][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:950][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.03:957][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.04:003][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.04:018][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.04:022][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.04:023][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.04:040][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.04:049][ 94]LogVSAccessor: Warning: Couldn't access module table
+[2023.02.03-21.15.21:279][949]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.03-21.15.21:279][949]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.03-21.21.51:671][952]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.03-21.21.51:671][952]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.03-21.21.54:818][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.03-21.21.54:840][278]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.03-21.21.54:841][278]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2023.02.03-21.21.54:915][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.02.03-21.21.54:917][278]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (1 blueprints)
+[2023.02.03-21.21.54:917][278]PIE: New page: PIE session: MainMenu (3 Feb 2023, 21:21:54)
+[2023.02.03-21.21.54:921][278]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.03-21.21.54:921][278]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.03-21.21.54:921][278]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2023.02.03-21.21.54:923][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001207s)
+[2023.02.03-21.21.54:923][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001284s)
+[2023.02.03-21.21.54:923][278]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.03-21.21.54:923][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-21.21.54:923][278]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.03-21.21.54:924][278]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2023.02.03-21.21.54:964][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.02.03-21.21.54:964][278]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.03-21.21.54:964][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-21.21.54:964][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-21.21.54:964][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-21.21.54:964][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-21.21.54:964][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-21.21.54:964][278]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.03-21.21.54:965][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-21.21.54:965][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-21.21.54:965][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-21.21.54:965][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-21.21.54:965][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-21.21.54:967][278]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.03-21.21.54:992][278]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.02.03-21.21.54:992][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-21.21.54:992][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-21.21.54:992][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-21.21.54:993][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.03-21.21.54:993][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.03-21.21.54:995][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.03-21.21.54:995][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.03-21.21.54:995][278]LogInit: FAudioDevice initialized.
+[2023.02.03-21.21.54:995][278]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2023.02.03-21.21.55:012][278]LogLoad: Game class is 'GameModeBase'
+[2023.02.03-21.21.55:014][278]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.02.03-21.21.55
+[2023.02.03-21.21.55:014][278]LogWorld: Bringing up level for play took: 0.000675
+[2023.02.03-21.21.55:016][278]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.02.03-21.21.55:041][278]PIE: Server logged in
+[2023.02.03-21.21.55:042][278]PIE: Play in editor total start time 0.202 seconds.
+[2023.02.03-21.22.00:409][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-21.22.00:409][704]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.02.03-21.22.00:409][704]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-21.22.00:409][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-21.22.00:420][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.03-21.22.00:428][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-21.22.00:472][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-21.22.00:472][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.03-21.22.00:474][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.03-21.22.00:510][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.02.03-21.22.00:544][705]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.02.03-21.22.07:380][453]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.03-21.22.07:404][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.03-21.22.07:404][453]PIE: New page: PIE session: MainMenu (3 Feb 2023, 21:22:07)
+[2023.02.03-21.22.07:404][453]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2023.02.03-21.22.07:405][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000944s)
+[2023.02.03-21.22.07:405][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001036s)
+[2023.02.03-21.22.07:405][453]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.03-21.22.07:405][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.03-21.22.07:406][453]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.03-21.22.07:406][453]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2023.02.03-21.22.07:479][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.02.03-21.22.07:483][453]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.03-21.22.07:483][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.03-21.22.07:483][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.03-21.22.07:483][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.03-21.22.07:483][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.03-21.22.07:483][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.03-21.22.07:483][453]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.03-21.22.07:483][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.03-21.22.07:483][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.03-21.22.07:484][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.03-21.22.07:484][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.03-21.22.07:484][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.03-21.22.07:486][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.03-21.22.07:510][453]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.02.03-21.22.07:510][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.03-21.22.07:510][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.03-21.22.07:510][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.03-21.22.07:512][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.02.03-21.22.07:512][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.02.03-21.22.07:513][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.02.03-21.22.07:513][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.02.03-21.22.07:513][453]LogInit: FAudioDevice initialized.
+[2023.02.03-21.22.07:513][453]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2023.02.03-21.22.07:525][453]LogLoad: Game class is 'GameModeBase'
+[2023.02.03-21.22.07:525][453]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.02.03-21.22.07
+[2023.02.03-21.22.07:525][453]LogWorld: Bringing up level for play took: 0.000264
+[2023.02.03-21.22.07:527][453]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.02.03-21.22.07:529][453]PIE: Server logged in
+[2023.02.03-21.22.07:529][453]PIE: Play in editor total start time 0.126 seconds.
+[2023.02.03-21.22.16:969][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-21.22.16:969][509]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.02.03-21.22.16:969][509]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.03-21.22.16:969][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-21.22.16:984][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.03-21.22.16:988][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.03-21.22.17:025][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.03-21.22.17:025][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.03-21.22.17:026][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.03-21.22.17:031][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.03-21.22.17:034][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.02.03-21.22.17:067][510]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.02.03-21.22.36:062][156]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-21.22.36:062][156]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-21.22.57:283][ 82]LogEditorViewport: Clicking Background
+[2023.02.03-21.23.25:887][ 60]LogTurnkeySupport: Display: Adding device menu item for MC11678
+[2023.02.03-21.23.25:887][ 60]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/GamingGamerGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Intermediate/TurnkeyReport_1.log" -log="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Intermediate/TurnkeyLog_1.log" -project="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/GamingGamerGame.uproject"  -Device=Win64@MC11678'
+[2023.02.03-21.23.25:887][ 60]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/GamingGamerGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Intermediate/TurnkeyReport_1.log" -log="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Intermediate/TurnkeyLog_1.log" -project="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/GamingGamerGame.uproject"  -Device=Win64@MC11678" -nocompile ]
+[2023.02.03-21.23.27:941][267]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.02.03-21.23.27:953][267]LogTurnkeySupport: Turnkey Device: Win64@MC11678: (Name=MC11678, Status=Valid, Installed=10.0.19045.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2023.02.03-21.23.34:955][ 37]LogEditorViewport: Clicking Background
+[2023.02.03-21.23.49:750][118]LogEditorViewport: Clicking Background
+[2023.02.03-21.24.11:003][530]LogEditorViewport: Clicking Background
+[2023.02.03-21.24.30:740][876]LogEditorViewport: Clicking Background
+[2023.02.03-21.24.31:299][939]LogTurnkeySupport: Display: Adding device menu item for MC11678
