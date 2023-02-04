@@ -906,3 +906,275 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.04-15.29.06:736][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2023.02.04-15.29.06:749][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
 [2023.02.04-15.29.06:806][260]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.02.04-15.31.26:619][961]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.02.04-15.31.26:627][961]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.02.04-15.31.26:631][961]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.02.04-15.31.26:645][962]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.02.04-15.31.27:524][ 56]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.02.04-15.31.27:530][ 56]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.02.04-15.31.28:982][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.02.04-15.31.31:168][208]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-15.31.31:224][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.04-15.31.32:842][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.02.04-15.31.37:378][843]LogContentBrowser: Attempting asset rename: WinScreen_2 -> LoseScreen
+[2023.02.04-15.31.37:400][843]LogMetaData: Removing '/Game/GUI/MainMenu/LoseScreen.SKEL_LoseScreen_C' ref from Metadata '/Game/GUI/MainMenu/WinScreen_2.PackageMetaData'
+[2023.02.04-15.31.37:400][843]LogMetaData: Removing '/Game/GUI/MainMenu/LoseScreen.LoseScreen_C' ref from Metadata '/Game/GUI/MainMenu/WinScreen_2.PackageMetaData'
+[2023.02.04-15.31.37:400][843]LogMetaData: Removing '/Game/GUI/MainMenu/LoseScreen.SKEL_LoseScreen_C:BndEvt__WinScreen_MainMenuButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/GUI/MainMenu/WinScreen_2.PackageMetaData'
+[2023.02.04-15.31.37:486][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/MainMenu/LoseScreen" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/GUI/MainMenu/LoseScreen.uasset" SILENT=true
+[2023.02.04-15.31.38:663][843]LogSavePackage: Moving output files for package: /Game/GUI/MainMenu/LoseScreen
+[2023.02.04-15.31.38:663][843]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/LoseScreenDC987EA241EBA54CD3FDDEA51A37C604.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/GUI/MainMenu/LoseScreen.uasset'
+[2023.02.04-15.31.38:785][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.02.04-15.31.38:830][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.04-15.31.38:873][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.04-15.31.38:879][843]AssetCheck: New page: Asset Save: LoseScreen
+[2023.02.04-15.31.38:880][843]LogContentValidation: Display: Validating WidgetBlueprint /Game/GUI/MainMenu/LoseScreen.LoseScreen
+[2023.02.04-15.31.40:261][986]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/MainMenu/LoseScreen.LoseScreen
+[2023.02.04-15.31.40:261][986]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.31.40:275][986]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.31.40:750][986]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.31.40:750][986]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.04-15.31.53:355][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/MainMenu/LoseScreen" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/GUI/MainMenu/LoseScreen.uasset" SILENT=true
+[2023.02.04-15.31.53:431][ 77]LogSavePackage: Moving output files for package: /Game/GUI/MainMenu/LoseScreen
+[2023.02.04-15.31.53:439][ 77]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/LoseScreen487598BF45F0B3BC577A339370CB195C.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/GUI/MainMenu/LoseScreen.uasset'
+[2023.02.04-15.31.53:466][ 77]AssetCheck: New page: Asset Save: LoseScreen
+[2023.02.04-15.31.53:466][ 77]LogContentValidation: Display: Validating WidgetBlueprint /Game/GUI/MainMenu/LoseScreen.LoseScreen
+[2023.02.04-15.32.01:775][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/MainMenu/WinScreen" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/GUI/MainMenu/WinScreen.uasset" SILENT=true
+[2023.02.04-15.32.01:855][976]LogSavePackage: Moving output files for package: /Game/GUI/MainMenu/WinScreen
+[2023.02.04-15.32.01:863][976]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/WinScreenF1783B4B46DFD6BD5D9E5593BE60AA8A.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/GUI/MainMenu/WinScreen.uasset'
+[2023.02.04-15.32.01:891][976]AssetCheck: New page: Asset Save: WinScreen
+[2023.02.04-15.32.01:891][976]LogContentValidation: Display: Validating WidgetBlueprint /Game/GUI/MainMenu/WinScreen.WinScreen
+[2023.02.04-15.32.11:484][ 50]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.02.04-15.32.11:491][ 50]LogContentBrowser: Creating deferred item: NewWorld
+[2023.02.04-15.32.11:504][ 51]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.02.04-15.32.14:946][458]LogContentBrowser: Attempting asset rename: NewWorld -> LoseLevel
+[2023.02.04-15.32.14:950][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.32.14:952][458]LogContentBrowser: End creating deferred item NewWorld
+[2023.02.04-15.32.46:692][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.02.04-15.32.47:940][226]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-15.32.48:066][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.04-15.32.48:123][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.02.04-15.32.48:174][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.02.04-15.32.48:177][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LoseLevel" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-15.32.48:228][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.02.04-15.32.48:246][226]LogSavePackage: Moving output files for package: /Game/Levels/LoseLevel
+[2023.02.04-15.32.48:246][226]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/LoseLevel9ED9ACEB4D31BE736CDBDE8A49E1F42F.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap'
+[2023.02.04-15.32.48:259][226]LogFileHelpers: Saving map 'LoseLevel' took 0.083
+[2023.02.04-15.32.48:265][226]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LoseLevel.LoseLevel
+[2023.02.04-15.32.48:265][226]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-15.32.48:265][226]LightingResults: New page: Lighting Build
+[2023.02.04-15.32.48:265][226]LoadErrors: New page: Loading map: LoseLevel.umap
+[2023.02.04-15.32.48:302][226]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.32.48:302][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.32.48:365][226]LogWorld: UWorld::CleanupWorld for WinLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.32.48:365][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.32.48:365][226]MapCheck: New page: Map Check
+[2023.02.04-15.32.48:365][226]LightingResults: New page: Lighting Build
+[2023.02.04-15.32.48:409][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.32.48:415][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.04-15.32.48:418][226]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.32.48:418][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.32.48:466][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.04-15.32.48:512][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.02.04-15.32.48:518][226]LogAudio: Display: Audio Device (ID: 1) registered with world 'LoseLevel'.
+[2023.02.04-15.32.48:518][226]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.32.48:518][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.32.48:519][226]LogAIModule: Creating AISystem for world LoseLevel
+[2023.02.04-15.32.48:521][226]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-15.32.48:570][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.02.04-15.32.48:616][226]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-15.32.48:617][226]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.913ms to complete.
+[2023.02.04-15.32.48:617][226]LogFileHelpers: Loading map 'LoseLevel' took 0.352
+[2023.02.04-15.32.48:664][226]AssetCheck: New page: Asset Save: LoseLevel
+[2023.02.04-15.32.48:664][226]LogContentValidation: Display: Validating World /Game/Levels/LoseLevel.LoseLevel
+[2023.02.04-15.33.26:138][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.02.04-15.33.26:215][659]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/WinLevel.WinLevel
+[2023.02.04-15.33.26:215][659]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/WinLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-15.33.26:215][659]LightingResults: New page: Lighting Build
+[2023.02.04-15.33.26:215][659]LoadErrors: New page: Loading map: WinLevel.umap
+[2023.02.04-15.33.26:239][659]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.26:239][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.26:239][659]MapCheck: New page: Map Check
+[2023.02.04-15.33.26:239][659]LightingResults: New page: Lighting Build
+[2023.02.04-15.33.26:282][659]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.33.26:285][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.02.04-15.33.26:287][659]LogWorld: UWorld::CleanupWorld for WinLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.26:287][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.26:335][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.02.04-15.33.26:383][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.02.04-15.33.26:391][659]LogAudio: Display: Audio Device (ID: 1) registered with world 'WinLevel'.
+[2023.02.04-15.33.26:391][659]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.33.26:391][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.33.26:392][659]LogAIModule: Creating AISystem for world WinLevel
+[2023.02.04-15.33.26:395][659]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-15.33.26:443][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.04-15.33.26:482][659]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-15.33.26:482][659]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.335ms to complete.
+[2023.02.04-15.33.26:482][659]LogFileHelpers: Loading map 'WinLevel' took 0.268
+[2023.02.04-15.33.29:674][985]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/WinLevel.WinLevel:PersistentLevel.WinLevel
+[2023.02.04-15.33.29:675][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.33.33:708][379]LogEditorViewport: Clicking Background
+[2023.02.04-15.33.34:512][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.02.04-15.33.34:571][456]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LoseLevel.LoseLevel
+[2023.02.04-15.33.34:571][456]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-15.33.34:571][456]LightingResults: New page: Lighting Build
+[2023.02.04-15.33.34:571][456]LoadErrors: New page: Loading map: LoseLevel.umap
+[2023.02.04-15.33.34:639][456]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.34:639][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.34:696][456]LogWorld: UWorld::CleanupWorld for WinLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.34:696][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.34:696][456]MapCheck: New page: Map Check
+[2023.02.04-15.33.34:696][456]LightingResults: New page: Lighting Build
+[2023.02.04-15.33.34:740][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.33.34:746][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.02.04-15.33.34:749][456]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.34:749][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.34:795][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.02.04-15.33.34:842][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.02.04-15.33.34:848][456]LogAudio: Display: Audio Device (ID: 1) registered with world 'LoseLevel'.
+[2023.02.04-15.33.34:848][456]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.33.34:848][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.33.34:848][456]LogAIModule: Creating AISystem for world LoseLevel
+[2023.02.04-15.33.34:850][456]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-15.33.34:898][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.02.04-15.33.34:939][456]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-15.33.34:939][456]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.328ms to complete.
+[2023.02.04-15.33.34:939][456]LogFileHelpers: Loading map 'LoseLevel' took 0.367
+[2023.02.04-15.33.36:886][644]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LoseLevel.LoseLevel:PersistentLevel.LoseLevel
+[2023.02.04-15.33.36:886][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.33.41:685][ 57]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-15.33.47:117][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LoseLevel" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-15.33.47:174][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.02.04-15.33.47:226][649]LogSavePackage: Moving output files for package: /Game/Levels/LoseLevel
+[2023.02.04-15.33.47:234][649]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/LoseLevel126604CF4FACAE776B368EB5AC2731A2.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap'
+[2023.02.04-15.33.47:290][649]LogFileHelpers: Saving map 'LoseLevel' took 0.175
+[2023.02.04-15.33.47:306][649]AssetCheck: New page: Asset Save: LoseLevel
+[2023.02.04-15.33.47:306][649]LogContentValidation: Display: Validating World /Game/Levels/LoseLevel.LoseLevel
+[2023.02.04-15.33.48:546][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-15.33.48:571][793]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.04-15.33.48:571][793]LogPlayLevel: [PlayLevel] Compiling LoseLevel before play...
+[2023.02.04-15.33.48:621][793]LogPlayLevel: [PlayLevel] Compiling WinScreen before play...
+[2023.02.04-15.33.48:644][793]LogPlayLevel: [PlayLevel] Compiling LoseScreen before play...
+[2023.02.04-15.33.48:779][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.02.04-15.33.48:779][793]LogPlayLevel: PlayLevel: Blueprint regeneration took 208 ms (3 blueprints)
+[2023.02.04-15.33.48:780][793]PIE: New page: PIE session: LoseLevel (4 Feb 2023, 15:33:48)
+[2023.02.04-15.33.48:780][793]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LoseLevel
+[2023.02.04-15.33.48:781][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001185s)
+[2023.02.04-15.33.48:781][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LoseLevel.LoseLevel to /Game/Levels/UEDPIE_0_LoseLevel.LoseLevel (0.001255s)
+[2023.02.04-15.33.48:781][793]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.33.48:781][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.33.48:782][793]LogAIModule: Creating AISystem for world LoseLevel
+[2023.02.04-15.33.48:782][793]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2023.02.04-15.33.48:835][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.02.04-15.33.48:835][793]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.04-15.33.48:835][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-15.33.48:835][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-15.33.48:835][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-15.33.48:835][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-15.33.48:835][793]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-15.33.48:835][793]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-15.33.48:835][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-15.33.48:835][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-15.33.48:836][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-15.33.48:836][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-15.33.48:836][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-15.33.48:838][793]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-15.33.48:862][793]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.02.04-15.33.48:862][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-15.33.48:862][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-15.33.48:862][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-15.33.48:863][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.02.04-15.33.48:863][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.02.04-15.33.48:865][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.02.04-15.33.48:865][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.02.04-15.33.48:865][793]LogInit: FAudioDevice initialized.
+[2023.02.04-15.33.48:865][793]LogAudio: Display: Audio Device (ID: 3) registered with world 'LoseLevel'.
+[2023.02.04-15.33.48:883][793]LogLoad: Game class is 'GameModeBase'
+[2023.02.04-15.33.48:883][793]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LoseLevel.LoseLevel up for play (max tick rate 0) at 2023.02.04-15.33.48
+[2023.02.04-15.33.48:884][793]LogWorld: Bringing up level for play took: 0.000535
+[2023.02.04-15.33.48:886][793]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.02.04-15.33.48:888][793]PIE: Server logged in
+[2023.02.04-15.33.48:889][793]PIE: Play in editor total start time 0.318 seconds.
+[2023.02.04-15.33.53:456][310]LogNet: Browse: /Game/Levels/MainMenu
+[2023.02.04-15.33.53:456][310]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2023.02.04-15.33.53:457][310]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LoseLevel
+[2023.02.04-15.33.53:457][310]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.53:457][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.53:539][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.33.53:542][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.02.04-15.33.53:556][310]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2023.02.04-15.33.53:556][310]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.33.53:557][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.33.53:557][310]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.04-15.33.53:557][310]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2023.02.04-15.33.53:557][310]LogLoad: Game class is 'GameModeBase'
+[2023.02.04-15.33.53:558][310]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.02.04-15.33.53
+[2023.02.04-15.33.53:558][310]LogWorld: Bringing up level for play took: 0.000387
+[2023.02.04-15.33.53:558][310]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.04-15.33.53:560][310]LogLoad: Took 0.103170 seconds to LoadMap(/Game/Levels/MainMenu)
+[2023.02.04-15.33.54:899][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.33.54:900][457]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.02.04-15.33.54:900][457]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.54:900][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.54:914][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-15.33.54:920][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.54:970][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.33.54:970][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.04-15.33.54:972][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.04-15.33.54:976][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-15.33.54:979][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.02.04-15.33.55:022][458]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.04-15.33.57:238][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.02.04-15.33.57:326][694]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2023.02.04-15.33.57:326][694]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-15.33.57:326][694]LightingResults: New page: Lighting Build
+[2023.02.04-15.33.57:326][694]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.02.04-15.33.57:360][694]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.57:360][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.57:418][694]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.57:418][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.57:418][694]MapCheck: New page: Map Check
+[2023.02.04-15.33.57:418][694]LightingResults: New page: Lighting Build
+[2023.02.04-15.33.57:464][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.33.57:471][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.02.04-15.33.57:475][694]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.33.57:475][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.33.57:524][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.02.04-15.33.57:572][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.02.04-15.33.57:582][694]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.02.04-15.33.57:582][694]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.33.57:582][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.33.57:582][694]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.04-15.33.57:585][694]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-15.33.57:633][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.02.04-15.33.57:676][694]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-15.33.57:677][694]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.334ms to complete.
+[2023.02.04-15.33.57:677][694]LogFileHelpers: Loading map 'MainMenu' took 0.351
+[2023.02.04-15.34.02:012][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.02.04-15.34.02:094][139]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LoseLevel.LoseLevel
+[2023.02.04-15.34.02:094][139]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-15.34.02:095][139]LightingResults: New page: Lighting Build
+[2023.02.04-15.34.02:095][139]LoadErrors: New page: Loading map: LoseLevel.umap
+[2023.02.04-15.34.02:097][139]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.34.02:098][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.34.02:098][139]MapCheck: New page: Map Check
+[2023.02.04-15.34.02:098][139]LightingResults: New page: Lighting Build
+[2023.02.04-15.34.02:141][139]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-15.34.02:144][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.02.04-15.34.02:146][139]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-15.34.02:146][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-15.34.02:193][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.02.04-15.34.02:242][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.02.04-15.34.02:260][139]LogAudio: Display: Audio Device (ID: 1) registered with world 'LoseLevel'.
+[2023.02.04-15.34.02:260][139]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-15.34.02:260][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-15.34.02:260][139]LogAIModule: Creating AISystem for world LoseLevel
+[2023.02.04-15.34.02:264][139]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-15.34.02:315][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.02.04-15.34.02:356][139]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-15.34.02:356][139]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.339ms to complete.
+[2023.02.04-15.34.02:356][139]LogFileHelpers: Loading map 'LoseLevel' took 0.261
+[2023.02.04-15.42.37:249][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/MainMenu/LoseScreen" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/GUI/MainMenu/LoseScreen.uasset" SILENT=true
+[2023.02.04-15.42.38:285][892]LogSavePackage: Moving output files for package: /Game/GUI/MainMenu/LoseScreen
+[2023.02.04-15.42.38:408][892]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/LoseScreen725A77D6455716679375749645E27918.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/GUI/MainMenu/LoseScreen.uasset'
+[2023.02.04-15.42.38:613][892]AssetCheck: New page: Asset Save: LoseScreen
+[2023.02.04-15.42.38:613][892]LogContentValidation: Display: Validating WidgetBlueprint /Game/GUI/MainMenu/LoseScreen.LoseScreen
