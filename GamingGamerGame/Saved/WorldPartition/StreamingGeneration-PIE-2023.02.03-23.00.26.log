@@ -1,0 +1,10 @@
+Containers:
+  [+] MainContainer:
+   |            ID: 0x0000000000000000
+   |        Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+   |     Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+   |     Container: /Game/Levels/InGameScreen
+   |  ActorDescs:
+   |      - Guid:13BF4E24446E0102DBFAB4A211B57419 Class:DirectionalLight Name:DirectionalLight_UAID_C8D3FFBDEC3B2A6301_1724663095 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:668E79D34453F53F51311590138BB70D Class:WorldDataLayers Name:WorldDataLayers SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:false HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
+   |      - Guid:695257D9490F60F0CE8F03B15AFA8D00 Class:PlayerStart Name:PlayerStart_UAID_C8D3FFBDEC3B256301_1380446215 SpatiallyLoaded:false Bounds:IsValid=true, Min=(X=-40.000 Y=-40.000 Z=-92.000), Max=(X=40.000 Y=40.000 Z=92.000) RuntimeGrid:None EditorOnly:false LevelBoundsRelevant:true HLODRelevant:false FolderPath:None FolderGuid:00000000000000000000000000000000 Parent:00000000000000000000000000000000
