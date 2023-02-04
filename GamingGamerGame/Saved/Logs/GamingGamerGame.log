@@ -2061,3 +2061,183 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.02.04-20.31.10:245][789]LogContentBrowser: End creating deferred item NewWorld
 [2023.02.04-20.31.11:833][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
 [2023.02.04-20.31.14:735][924]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-20.31.52:821][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.04-20.31.53:855][652]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-20.31.53:922][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Room4" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-20.31.53:969][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.04-20.31.53:991][652]LogSavePackage: Moving output files for package: /Game/Levels/Room4
+[2023.02.04-20.31.53:991][652]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Room4467978114DEF90A13C9AC4A9F4320E32.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap'
+[2023.02.04-20.31.54:005][652]LogFileHelpers: Saving map 'Room4' took 0.084
+[2023.02.04-20.31.54:012][652]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Room4.Room4
+[2023.02.04-20.31.54:012][652]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-20.31.54:012][652]LightingResults: New page: Lighting Build
+[2023.02.04-20.31.54:012][652]LoadErrors: New page: Loading map: Room4.umap
+[2023.02.04-20.31.54:057][652]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.31.54:057][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.31.54:057][652]MapCheck: New page: Map Check
+[2023.02.04-20.31.54:057][652]LightingResults: New page: Lighting Build
+[2023.02.04-20.31.54:104][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.31.54:108][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.02.04-20.31.54:109][652]LogWorld: UWorld::CleanupWorld for Room4, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.31.54:109][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.31.54:110][652]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.31.54:110][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.31.54:157][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.02.04-20.31.54:202][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.02.04-20.31.54:208][652]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room4'.
+[2023.02.04-20.31.54:208][652]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.31.54:208][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.31.54:209][652]LogAIModule: Creating AISystem for world Room4
+[2023.02.04-20.31.54:222][652]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-20.31.54:270][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.02.04-20.31.54:310][652]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-20.31.54:311][652]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.881ms to complete.
+[2023.02.04-20.31.54:311][652]LogFileHelpers: Loading map 'Room4' took 0.298
+[2023.02.04-20.31.54:362][652]AssetCheck: New page: Asset Save: Room4
+[2023.02.04-20.31.54:362][652]LogContentValidation: Display: Validating World /Game/Levels/Room4.Room4
+[2023.02.04-20.32.03:239][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/B_Room.B_Room_C
+[2023.02.04-20.32.03:239][391]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/B_Room.B_Room_C
+[2023.02.04-20.32.03:245][391]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/B_Room.B_Room as actor: B_Room_C /Game/Levels/Room4.Room4:PersistentLevel.B_Room_C_0
+[2023.02.04-20.32.03:250][391]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/B_Room.B_Room as actor: B_Room_C /Game/Levels/Room4.Room4:PersistentLevel.B_Room_C_0
+[2023.02.04-20.32.04:204][451]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/B_Room.B_Room_C
+[2023.02.04-20.32.04:204][451]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/B_Room.B_Room_C
+[2023.02.04-20.32.04:210][451]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/B_Room.B_Room as actor: B_Room_C /Game/Levels/Room4.Room4:PersistentLevel.B_Room_C_1
+[2023.02.04-20.32.04:216][451]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/B_Room.B_Room as actor: B_Room_C /Game/Levels/Room4.Room4:PersistentLevel.B_Room_C_1
+[2023.02.04-20.32.09:750][835]LogEditorViewport: Clicking Background
+[2023.02.04-20.33.40:365][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.02.04-20.33.41:283][248]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-20.33.41:383][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Room4" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-20.33.41:440][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.04-20.33.41:533][248]LogSavePackage: Moving output files for package: /Game/Levels/Room4
+[2023.02.04-20.33.41:543][248]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Room4AE104B87473A20A66F89969B4BAD1BC8.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap'
+[2023.02.04-20.33.41:613][248]LogFileHelpers: Saving map 'Room4' took 0.233
+[2023.02.04-20.33.41:698][248]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Room2.Room2
+[2023.02.04-20.33.41:699][248]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-20.33.41:699][248]LightingResults: New page: Lighting Build
+[2023.02.04-20.33.41:699][248]LoadErrors: New page: Loading map: Room2.umap
+[2023.02.04-20.33.41:701][248]LogWorld: UWorld::CleanupWorld for Room4, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.33.41:701][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.33.41:701][248]MapCheck: New page: Map Check
+[2023.02.04-20.33.41:701][248]LightingResults: New page: Lighting Build
+[2023.02.04-20.33.41:747][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.33.41:750][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.02.04-20.33.41:752][248]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.33.41:752][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.33.41:798][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.04-20.33.41:844][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.04-20.33.41:850][248]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room2'.
+[2023.02.04-20.33.41:850][248]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.33.41:850][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.33.41:851][248]LogAIModule: Creating AISystem for world Room2
+[2023.02.04-20.33.41:873][248]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-20.33.41:921][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.02.04-20.33.41:967][248]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-20.33.41:968][248]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.73ms to complete.
+[2023.02.04-20.33.41:968][248]LogFileHelpers: Loading map 'Room2' took 0.270
+[2023.02.04-20.33.42:022][248]AssetCheck: New page: Asset Save: Room4
+[2023.02.04-20.33.42:022][248]LogContentValidation: Display: Validating World /Game/Levels/Room4.Room4
+[2023.02.04-20.33.44:063][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.02.04-20.33.44:147][401]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Room3.Room3
+[2023.02.04-20.33.44:147][401]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-20.33.44:147][401]LightingResults: New page: Lighting Build
+[2023.02.04-20.33.44:147][401]LoadErrors: New page: Loading map: Room3.umap
+[2023.02.04-20.33.44:150][401]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.33.44:150][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.33.44:150][401]MapCheck: New page: Map Check
+[2023.02.04-20.33.44:150][401]LightingResults: New page: Lighting Build
+[2023.02.04-20.33.44:196][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.33.44:199][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.02.04-20.33.44:201][401]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.33.44:201][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.33.44:202][401]LogWorld: UWorld::CleanupWorld for Room4, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.33.44:202][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.33.44:247][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.02.04-20.33.44:292][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.04-20.33.44:299][401]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room3'.
+[2023.02.04-20.33.44:299][401]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.33.44:299][401]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.33.44:299][401]LogAIModule: Creating AISystem for world Room3
+[2023.02.04-20.33.44:323][401]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-20.33.44:372][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.02.04-20.33.44:419][401]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-20.33.44:420][401]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.731ms to complete.
+[2023.02.04-20.33.44:420][401]LogFileHelpers: Loading map 'Room3' took 0.273
+[2023.02.04-20.33.49:139][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.04-20.33.49:230][779]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EndRoom.EndRoom
+[2023.02.04-20.33.49:230][779]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/EndRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-20.33.49:230][779]LightingResults: New page: Lighting Build
+[2023.02.04-20.33.49:230][779]LoadErrors: New page: Loading map: EndRoom.umap
+[2023.02.04-20.33.49:232][779]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.33.49:232][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.33.49:232][779]MapCheck: New page: Map Check
+[2023.02.04-20.33.49:232][779]LightingResults: New page: Lighting Build
+[2023.02.04-20.33.49:275][779]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.33.49:279][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.02.04-20.33.49:280][779]LogWorld: UWorld::CleanupWorld for EndRoom, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.33.49:281][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.33.49:326][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.02.04-20.33.49:370][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.04-20.33.49:378][779]LogAudio: Display: Audio Device (ID: 1) registered with world 'EndRoom'.
+[2023.02.04-20.33.49:378][779]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.33.49:378][779]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.33.49:379][779]LogAIModule: Creating AISystem for world EndRoom
+[2023.02.04-20.33.49:399][779]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-20.33.49:449][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.02.04-20.33.49:493][779]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-20.33.49:494][779]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.723ms to complete.
+[2023.02.04-20.33.49:494][779]LogFileHelpers: Loading map 'EndRoom' took 0.264
+[2023.02.04-20.33.57:111][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.04-20.33.57:197][425]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Room4.Room4
+[2023.02.04-20.33.57:197][425]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-20.33.57:197][425]LightingResults: New page: Lighting Build
+[2023.02.04-20.33.57:197][425]LoadErrors: New page: Loading map: Room4.umap
+[2023.02.04-20.33.57:227][425]LogWorld: UWorld::CleanupWorld for EndRoom, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.33.57:227][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.33.57:227][425]MapCheck: New page: Map Check
+[2023.02.04-20.33.57:227][425]LightingResults: New page: Lighting Build
+[2023.02.04-20.33.57:271][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.33.57:275][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.02.04-20.33.57:277][425]LogWorld: UWorld::CleanupWorld for Room4, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.33.57:277][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.33.57:323][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.04-20.33.57:370][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.04-20.33.57:376][425]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room4'.
+[2023.02.04-20.33.57:376][425]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.33.57:376][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.33.57:376][425]LogAIModule: Creating AISystem for world Room4
+[2023.02.04-20.33.57:396][425]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-20.33.57:446][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.02.04-20.33.57:500][425]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-20.33.57:501][425]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.77ms to complete.
+[2023.02.04-20.33.57:501][425]LogFileHelpers: Loading map 'Room4' took 0.303
+[2023.02.04-20.34.04:730][986]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/Wall.Wall_C
+[2023.02.04-20.34.04:730][986]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/Wall.Wall_C
+[2023.02.04-20.34.04:731][986]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/Wall.Wall as actor: Wall_C /Game/Levels/Room4.Room4:PersistentLevel.Wall_C_0
+[2023.02.04-20.34.04:732][986]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/Wall.Wall as actor: Wall_C /Game/Levels/Room4.Room4:PersistentLevel.Wall_C_0
+[2023.02.04-20.34.04:878][994]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/Wall.Wall_C
+[2023.02.04-20.34.04:878][994]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/Wall.Wall_C
+[2023.02.04-20.34.04:879][994]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/Wall.Wall as actor: Wall_C /Game/Levels/Room4.Room4:PersistentLevel.Wall_C_1
+[2023.02.04-20.34.04:880][994]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/Wall.Wall as actor: Wall_C /Game/Levels/Room4.Room4:PersistentLevel.Wall_C_1
+[2023.02.04-20.34.07:157][132]Cmd: EDIT COPY
+[2023.02.04-20.34.07:370][145]Cmd: EDIT PASTE
+[2023.02.04-20.34.11:257][429]Cmd: EDIT PASTE
+[2023.02.04-20.35.03:652][360]Cmd: EDIT COPY
+[2023.02.04-20.35.04:352][414]Cmd: EDIT PASTE
+[2023.02.04-20.35.13:455][ 97]LogEditorViewport: Clicking Background
+[2023.02.04-20.35.19:018][548]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.02.04-20.35.19:019][548]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.02.04-20.35.19:020][548]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Room4.Room4:PersistentLevel.DirectionalLight_0
+[2023.02.04-20.35.19:020][548]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Room4.Room4:PersistentLevel.DirectionalLight_0
+[2023.02.04-20.35.28:378][235]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.02.04-20.35.28:378][235]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.02.04-20.35.28:380][235]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/Room4.Room4:PersistentLevel.PlayerStart_0
+[2023.02.04-20.35.28:380][235]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.04-20.35.28:380][235]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/Room4.Room4:PersistentLevel.PlayerStart_0
+[2023.02.04-20.35.28:381][235]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.04-20.35.34:426][680]LogEditorViewport: Clicking Background
+[2023.02.04-20.35.34:702][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Room4" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-20.35.34:753][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.02.04-20.35.34:913][700]LogSavePackage: Moving output files for package: /Game/Levels/Room4
+[2023.02.04-20.35.34:925][700]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Room4CA3290CD4FCDC735BA0C3591FE3AA121.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap'
+[2023.02.04-20.35.35:019][700]AssetCheck: New page: Asset Save: Room4
+[2023.02.04-20.35.35:019][700]LogContentValidation: Display: Validating World /Game/Levels/Room4.Room4
