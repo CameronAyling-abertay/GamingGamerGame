@@ -1677,3 +1677,387 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.02.04-20.14.55:156][976]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Room2B85A93204710E2842E8E7CB2F465BADC.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room2.umap'
 [2023.02.04-20.14.55:246][976]AssetCheck: New page: Asset Save: Room2
 [2023.02.04-20.14.55:246][976]LogContentValidation: Display: Validating World /Game/Levels/Room2.Room2
+[2023.02.04-20.15.28:021][524]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.02.04-20.15.28:032][524]LogContentBrowser: Creating deferred item: NewWorld
+[2023.02.04-20.15.28:048][525]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.02.04-20.15.30:599][721]LogContentBrowser: Attempting asset rename: NewWorld -> Room3
+[2023.02.04-20.15.30:601][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.15.30:603][721]LogContentBrowser: End creating deferred item NewWorld
+[2023.02.04-20.15.46:452][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.02.04-20.15.48:083][964]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-20.15.48:162][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Room3" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-20.15.48:202][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.02.04-20.15.48:222][964]LogSavePackage: Moving output files for package: /Game/Levels/Room3
+[2023.02.04-20.15.48:222][964]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Room3DB61F92F4E6FE9CEA4FE24B808A9334F.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room3.umap'
+[2023.02.04-20.15.48:234][964]LogFileHelpers: Saving map 'Room3' took 0.074
+[2023.02.04-20.15.48:241][964]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Room3.Room3
+[2023.02.04-20.15.48:242][964]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-20.15.48:242][964]LightingResults: New page: Lighting Build
+[2023.02.04-20.15.48:242][964]LoadErrors: New page: Loading map: Room3.umap
+[2023.02.04-20.15.48:247][964]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.15.48:247][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.15.48:247][964]MapCheck: New page: Map Check
+[2023.02.04-20.15.48:248][964]LightingResults: New page: Lighting Build
+[2023.02.04-20.15.48:285][964]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.15.48:289][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.02.04-20.15.48:290][964]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.15.48:290][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.15.48:329][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.02.04-20.15.48:367][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.04-20.15.48:373][964]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room3'.
+[2023.02.04-20.15.48:373][964]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.15.48:373][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.15.48:374][964]LogAIModule: Creating AISystem for world Room3
+[2023.02.04-20.15.48:387][964]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-20.15.48:428][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.04-20.15.48:473][964]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-20.15.48:474][964]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.859ms to complete.
+[2023.02.04-20.15.48:474][964]LogFileHelpers: Loading map 'Room3' took 0.233
+[2023.02.04-20.15.48:522][964]AssetCheck: New page: Asset Save: Room3
+[2023.02.04-20.15.48:522][964]LogContentValidation: Display: Validating World /Game/Levels/Room3.Room3
+[2023.02.04-20.15.56:636][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/B_Room.B_Room_C
+[2023.02.04-20.15.56:636][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/B_Room.B_Room_C
+[2023.02.04-20.15.56:640][670]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/B_Room.B_Room as actor: B_Room_C /Game/Levels/Room3.Room3:PersistentLevel.B_Room_C_0
+[2023.02.04-20.15.56:646][670]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/B_Room.B_Room as actor: B_Room_C /Game/Levels/Room3.Room3:PersistentLevel.B_Room_C_0
+[2023.02.04-20.15.57:431][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/B_Room.B_Room_C
+[2023.02.04-20.15.57:431][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/B_Room.B_Room_C
+[2023.02.04-20.15.57:437][727]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/B_Room.B_Room as actor: B_Room_C /Game/Levels/Room3.Room3:PersistentLevel.B_Room_C_1
+[2023.02.04-20.15.57:442][727]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/B_Room.B_Room as actor: B_Room_C /Game/Levels/Room3.Room3:PersistentLevel.B_Room_C_1
+[2023.02.04-20.16.11:803][785]LogEditorViewport: Clicking Background
+[2023.02.04-20.16.16:984][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.02.04-20.16.18:482][210]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-20.16.20:361][374]LogEditorViewport: Clicking Background
+[2023.02.04-20.16.20:684][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Room3" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-20.16.20:738][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.04-20.16.20:826][395]LogSavePackage: Moving output files for package: /Game/Levels/Room3
+[2023.02.04-20.16.20:834][395]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Room3A8E2AECB43D1579860379690C9A8608D.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room3.umap'
+[2023.02.04-20.16.20:920][395]AssetCheck: New page: Asset Save: Room3
+[2023.02.04-20.16.20:920][395]LogContentValidation: Display: Validating World /Game/Levels/Room3.Room3
+[2023.02.04-20.16.24:371][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.02.04-20.16.24:454][704]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EndRoom.EndRoom
+[2023.02.04-20.16.24:454][704]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/EndRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-20.16.24:454][704]LightingResults: New page: Lighting Build
+[2023.02.04-20.16.24:454][704]LoadErrors: New page: Loading map: EndRoom.umap
+[2023.02.04-20.16.24:477][704]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.16.24:477][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.16.24:477][704]MapCheck: New page: Map Check
+[2023.02.04-20.16.24:477][704]LightingResults: New page: Lighting Build
+[2023.02.04-20.16.24:512][704]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.16.24:516][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.02.04-20.16.24:518][704]LogWorld: UWorld::CleanupWorld for EndRoom, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.16.24:518][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.16.24:557][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.02.04-20.16.24:595][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.02.04-20.16.24:602][704]LogAudio: Display: Audio Device (ID: 1) registered with world 'EndRoom'.
+[2023.02.04-20.16.24:602][704]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.16.24:602][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.16.24:603][704]LogAIModule: Creating AISystem for world EndRoom
+[2023.02.04-20.16.24:626][704]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-20.16.24:668][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.02.04-20.16.24:717][704]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-20.16.24:718][704]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.995ms to complete.
+[2023.02.04-20.16.24:718][704]LogFileHelpers: Loading map 'EndRoom' took 0.265
+[2023.02.04-20.16.24:785][704]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.02.04-20.16.28:358][993]Cmd: EDIT COPY
+[2023.02.04-20.16.29:673][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.02.04-20.16.29:772][ 84]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Room2.Room2
+[2023.02.04-20.16.29:772][ 84]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-20.16.29:772][ 84]LightingResults: New page: Lighting Build
+[2023.02.04-20.16.29:772][ 84]LoadErrors: New page: Loading map: Room2.umap
+[2023.02.04-20.16.29:776][ 84]LogWorld: UWorld::CleanupWorld for EndRoom, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.16.29:776][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.16.29:776][ 84]MapCheck: New page: Map Check
+[2023.02.04-20.16.29:776][ 84]LightingResults: New page: Lighting Build
+[2023.02.04-20.16.29:813][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.16.29:816][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.02.04-20.16.29:818][ 84]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.16.29:818][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.16.29:858][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.02.04-20.16.29:896][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.04-20.16.29:907][ 84]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room2'.
+[2023.02.04-20.16.29:907][ 84]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.16.29:907][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.16.29:908][ 84]LogAIModule: Creating AISystem for world Room2
+[2023.02.04-20.16.29:935][ 84]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-20.16.29:980][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.02.04-20.16.30:033][ 84]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-20.16.30:034][ 84]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.597ms to complete.
+[2023.02.04-20.16.30:034][ 84]LogFileHelpers: Loading map 'Room2' took 0.262
+[2023.02.04-20.16.30:102][ 84]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.02.04-20.16.31:061][159]Cmd: EDIT PASTE
+[2023.02.04-20.16.31:103][159]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.04-20.16.37:811][674]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-20.16.38:242][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-20.16.38:242][674]PIE: New page: PIE session: Room2 (4 Feb 2023, 20:16:38)
+[2023.02.04-20.16.38:242][674]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Room2
+[2023.02.04-20.16.38:246][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004061s)
+[2023.02.04-20.16.38:246][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Room2.Room2 to /Game/Levels/UEDPIE_0_Room2.Room2 (0.004142s)
+[2023.02.04-20.16.38:246][674]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.16.38:247][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.16.38:247][674]LogAIModule: Creating AISystem for world Room2
+[2023.02.04-20.16.38:247][674]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2023.02.04-20.16.38:287][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.02.04-20.16.38:288][674]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.02.04-20.16.38:288][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-20.16.38:289][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-20.16.38:289][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-20.16.38:289][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-20.16.38:289][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-20.16.38:289][674]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-20.16.38:289][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-20.16.38:289][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-20.16.38:290][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-20.16.38:290][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-20.16.38:290][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-20.16.38:292][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-20.16.38:319][674]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.02.04-20.16.38:319][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-20.16.38:319][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-20.16.38:320][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-20.16.38:321][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.02.04-20.16.38:321][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.02.04-20.16.38:323][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.02.04-20.16.38:323][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.02.04-20.16.38:323][674]LogInit: FAudioDevice initialized.
+[2023.02.04-20.16.38:323][674]LogAudio: Display: Audio Device (ID: 13) registered with world 'Room2'.
+[2023.02.04-20.16.38:337][674]LogLoad: Game class is 'GameModeBase'
+[2023.02.04-20.16.38:338][674]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Room2.Room2 up for play (max tick rate 0) at 2023.02.04-20.16.38
+[2023.02.04-20.16.38:338][674]LogWorld: Bringing up level for play took: 0.001073
+[2023.02.04-20.16.38:340][674]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.02.04-20.16.38:343][674]PIE: Server logged in
+[2023.02.04-20.16.38:343][674]PIE: Play in editor total start time 0.101 seconds.
+[2023.02.04-20.16.44:017][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.16.44:017][121]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Room2
+[2023.02.04-20.16.44:017][121]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.16.44:018][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.16.44:031][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-20.16.44:036][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.16.44:072][121]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.16.44:072][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.04-20.16.44:073][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.04-20.16.44:078][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.16.44:081][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.02.04-20.16.44:152][122]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.02.04-20.16.47:486][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.04-20.17.26:293][365]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-20.17.26:378][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Room2" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-20.17.26:419][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.04-20.17.26:596][365]LogSavePackage: Moving output files for package: /Game/Levels/Room2
+[2023.02.04-20.17.26:607][365]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Room22831B9FA404A0A2201F2AF8F2C3B0625.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room2.umap'
+[2023.02.04-20.17.26:702][365]LogFileHelpers: Saving map 'Room2' took 0.326
+[2023.02.04-20.17.26:801][365]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Room3.Room3
+[2023.02.04-20.17.26:801][365]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-20.17.26:801][365]LightingResults: New page: Lighting Build
+[2023.02.04-20.17.26:801][365]LoadErrors: New page: Loading map: Room3.umap
+[2023.02.04-20.17.26:805][365]LogWorld: UWorld::CleanupWorld for Room2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.17.26:805][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.17.26:805][365]MapCheck: New page: Map Check
+[2023.02.04-20.17.26:805][365]LightingResults: New page: Lighting Build
+[2023.02.04-20.17.26:841][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.17.26:844][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.02.04-20.17.26:846][365]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.17.26:846][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.17.26:885][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.02.04-20.17.26:923][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.02.04-20.17.26:929][365]LogAudio: Display: Audio Device (ID: 1) registered with world 'Room3'.
+[2023.02.04-20.17.26:929][365]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.17.26:930][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.17.26:930][365]LogAIModule: Creating AISystem for world Room3
+[2023.02.04-20.17.26:949][365]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-20.17.26:990][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.02.04-20.17.27:037][365]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-20.17.27:038][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.9ms to complete.
+[2023.02.04-20.17.27:038][365]LogFileHelpers: Loading map 'Room3' took 0.237
+[2023.02.04-20.17.27:120][365]AssetCheck: New page: Asset Save: Room2
+[2023.02.04-20.17.27:120][365]LogContentValidation: Display: Validating World /Game/Levels/Room2.Room2
+[2023.02.04-20.18.04:140][655]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.02.04-20.18.04:140][655]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.02.04-20.18.04:142][655]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Room3.Room3:PersistentLevel.DirectionalLight_0
+[2023.02.04-20.18.04:142][655]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/Room3.Room3:PersistentLevel.DirectionalLight_0
+[2023.02.04-20.18.23:558][215]Cmd: EDIT PASTE
+[2023.02.04-20.18.23:601][215]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.04-20.18.30:765][791]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-20.18.30:792][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-20.18.30:792][791]PIE: New page: PIE session: Room3 (4 Feb 2023, 20:18:30)
+[2023.02.04-20.18.30:792][791]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Room3
+[2023.02.04-20.18.30:794][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002382s)
+[2023.02.04-20.18.30:794][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Room3.Room3 to /Game/Levels/UEDPIE_0_Room3.Room3 (0.002452s)
+[2023.02.04-20.18.30:794][791]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.18.30:794][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.18.30:795][791]LogAIModule: Creating AISystem for world Room3
+[2023.02.04-20.18.30:795][791]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2023.02.04-20.18.30:834][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.04-20.18.30:836][791]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.02.04-20.18.30:836][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-20.18.30:836][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-20.18.30:836][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-20.18.30:836][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-20.18.30:836][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-20.18.30:836][791]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-20.18.30:836][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-20.18.30:836][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-20.18.30:837][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-20.18.30:837][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-20.18.30:837][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-20.18.30:839][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-20.18.30:864][791]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.02.04-20.18.30:865][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-20.18.30:865][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-20.18.30:865][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-20.18.30:865][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.02.04-20.18.30:865][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.02.04-20.18.30:867][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.02.04-20.18.30:867][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.02.04-20.18.30:867][791]LogInit: FAudioDevice initialized.
+[2023.02.04-20.18.30:867][791]LogAudio: Display: Audio Device (ID: 14) registered with world 'Room3'.
+[2023.02.04-20.18.30:880][791]LogLoad: Game class is 'GameModeBase'
+[2023.02.04-20.18.30:881][791]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Room3.Room3 up for play (max tick rate 0) at 2023.02.04-20.18.30
+[2023.02.04-20.18.30:881][791]LogWorld: Bringing up level for play took: 0.000750
+[2023.02.04-20.18.30:883][791]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.02.04-20.18.30:884][791]PIE: Server logged in
+[2023.02.04-20.18.30:885][791]PIE: Play in editor total start time 0.093 seconds.
+[2023.02.04-20.18.32:748][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.18.32:748][938]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Room3
+[2023.02.04-20.18.32:748][938]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.18.32:749][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.18.32:781][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-20.18.32:793][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.18.32:830][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-20.18.32:831][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.02.04-20.18.32:832][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.02.04-20.18.32:836][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.18.32:840][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.02.04-20.18.32:913][939]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.02.04-20.18.36:387][222]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.04-20.18.37:421][305]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.02.04-20.18.43:677][806]LogEditorViewport: Clicking Background
+[2023.02.04-20.18.44:657][896]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-20.18.44:685][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-20.18.44:685][896]PIE: New page: PIE session: Room3 (4 Feb 2023, 20:18:44)
+[2023.02.04-20.18.44:685][896]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Room3
+[2023.02.04-20.18.44:688][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002550s)
+[2023.02.04-20.18.44:688][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Room3.Room3 to /Game/Levels/UEDPIE_0_Room3.Room3 (0.002631s)
+[2023.02.04-20.18.44:688][896]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-20.18.44:688][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.18.44:688][896]LogAIModule: Creating AISystem for world Room3
+[2023.02.04-20.18.44:689][896]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2023.02.04-20.18.44:729][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.02.04-20.18.44:730][896]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.02.04-20.18.44:730][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-20.18.44:730][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-20.18.44:730][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-20.18.44:730][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-20.18.44:730][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-20.18.44:730][896]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-20.18.44:730][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-20.18.44:730][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-20.18.44:731][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-20.18.44:731][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-20.18.44:731][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-20.18.44:733][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-20.18.44:759][896]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.02.04-20.18.44:759][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-20.18.44:760][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-20.18.44:760][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-20.18.44:760][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.02.04-20.18.44:760][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.02.04-20.18.44:762][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.02.04-20.18.44:762][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.02.04-20.18.44:762][896]LogInit: FAudioDevice initialized.
+[2023.02.04-20.18.44:762][896]LogAudio: Display: Audio Device (ID: 15) registered with world 'Room3'.
+[2023.02.04-20.18.44:771][896]LogLoad: Game class is 'GameModeBase'
+[2023.02.04-20.18.44:772][896]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Room3.Room3 up for play (max tick rate 0) at 2023.02.04-20.18.44
+[2023.02.04-20.18.44:772][896]LogWorld: Bringing up level for play took: 0.000696
+[2023.02.04-20.18.44:774][896]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.02.04-20.18.44:776][896]PIE: Server logged in
+[2023.02.04-20.18.44:776][896]PIE: Play in editor total start time 0.091 seconds.
+[2023.02.04-20.18.52:337][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.18.52:337][521]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Room3
+[2023.02.04-20.18.52:337][521]LogWorld: UWorld::CleanupWorld for Room3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-20.18.52:337][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.18.52:351][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-20.18.52:356][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-20.18.52:391][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-20.18.52:392][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.02.04-20.18.52:393][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.02.04-20.18.52:404][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.02.04-20.18.52:459][522]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.02.04-20.19.34:468][377]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/Wall.Wall_C
+[2023.02.04-20.19.34:468][377]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/Wall.Wall_C
+[2023.02.04-20.19.34:469][377]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/Wall.Wall as actor: Wall_C /Game/Levels/Room3.Room3:PersistentLevel.Wall_C_0
+[2023.02.04-20.19.34:471][377]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/Wall.Wall as actor: Wall_C /Game/Levels/Room3.Room3:PersistentLevel.Wall_C_0
+[2023.02.04-20.19.35:371][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/Wall.Wall_C
+[2023.02.04-20.19.35:371][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InGame/Wall.Wall_C
+[2023.02.04-20.19.35:373][442]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/Wall.Wall as actor: Wall_C /Game/Levels/Room3.Room3:PersistentLevel.Wall_C_1
+[2023.02.04-20.19.35:374][442]LogActorFactory: Actor Factory spawned Blueprint /Game/InGame/Wall.Wall as actor: Wall_C /Game/Levels/Room3.Room3:PersistentLevel.Wall_C_1
+[2023.02.04-20.19.59:577][356]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InGame/Wall.Wall
+[2023.02.04-20.19.59:578][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.20.02:569][529]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.02.04-20.21.46:206][638]Cmd: EDIT COPY
+[2023.02.04-20.21.46:429][655]Cmd: EDIT PASTE
+[2023.02.04-20.22.10:165][375]LogEditorViewport: Clicking Background
+[2023.02.04-20.22.16:534][858]Cmd: EDIT COPY
+[2023.02.04-20.22.16:728][871]Cmd: EDIT PASTE
+[2023.02.04-20.22.35:876][302]Cmd: DELETE
+[2023.02.04-20.22.35:876][302]Cmd: ACTOR DELETE
+[2023.02.04-20.22.35:930][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.04-20.22.35:951][302]LogEditorActor: Deleted 1 Components (0.075 secs)
+[2023.02.04-20.22.37:659][430]Cmd: EDIT COPY
+[2023.02.04-20.22.37:850][444]Cmd: EDIT PASTE
+[2023.02.04-20.22.44:221][906]LogEditorViewport: Clicking Background
+[2023.02.04-20.22.48:198][212]Cmd: DELETE
+[2023.02.04-20.22.48:198][212]Cmd: ACTOR DELETE
+[2023.02.04-20.22.48:249][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.02.04-20.22.48:270][212]LogEditorActor: Deleted 1 Components (0.071 secs)
+[2023.02.04-20.22.51:547][442]Cmd: EDIT COPY
+[2023.02.04-20.22.51:716][454]Cmd: EDIT PASTE
+[2023.02.04-20.23.48:269][503]Cmd: EDIT COPY
+[2023.02.04-20.23.49:040][564]Cmd: EDIT PASTE
+[2023.02.04-20.24.04:997][729]Cmd: DELETE
+[2023.02.04-20.24.04:997][729]Cmd: ACTOR DELETE
+[2023.02.04-20.24.05:001][729]LogEditorActor: Deleted Actor: Wall_C
+[2023.02.04-20.24.05:053][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.02.04-20.24.05:055][729]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2023.02.04-20.24.05:063][729]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.02.04-20.24.07:305][909]Cmd: DELETE
+[2023.02.04-20.24.07:305][909]Cmd: ACTOR DELETE
+[2023.02.04-20.24.07:307][909]LogEditorActor: Deleted Actor: Wall_C
+[2023.02.04-20.24.07:355][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.02.04-20.24.07:356][909]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2023.02.04-20.24.07:940][957]Cmd: DELETE
+[2023.02.04-20.24.07:940][957]Cmd: ACTOR DELETE
+[2023.02.04-20.24.07:942][957]LogEditorActor: Deleted Actor: Wall_C
+[2023.02.04-20.24.07:990][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.02.04-20.24.07:991][957]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2023.02.04-20.24.09:217][ 55]Cmd: EDIT COPY
+[2023.02.04-20.24.09:489][ 76]Cmd: EDIT PASTE
+[2023.02.04-20.24.23:421][110]LogEditorViewport: Clicking Background
+[2023.02.04-20.24.24:372][187]Cmd: EDIT COPY
+[2023.02.04-20.24.24:589][202]Cmd: EDIT PASTE
+[2023.02.04-20.24.26:179][314]Cmd: EDIT PASTE
+[2023.02.04-20.24.48:148][  4]LogEditorViewport: Clicking Background
+[2023.02.04-20.24.57:527][685]Cmd: DELETE
+[2023.02.04-20.24.57:527][685]Cmd: ACTOR DELETE
+[2023.02.04-20.24.57:531][685]LogEditorActor: Deleted Actor: Wall_C
+[2023.02.04-20.24.57:581][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.02.04-20.24.57:582][685]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2023.02.04-20.25.05:475][292]Cmd: EDIT COPY
+[2023.02.04-20.25.05:681][308]Cmd: EDIT PASTE
+[2023.02.04-20.25.16:099][ 62]Cmd: EDIT COPY
+[2023.02.04-20.25.16:279][ 75]Cmd: EDIT PASTE
+[2023.02.04-20.25.26:165][773]LogEditorViewport: Clicking Background
+[2023.02.04-20.26.07:633][757]LogEditorViewport: Clicking Background
+[2023.02.04-20.26.09:522][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Room3" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-20.26.09:576][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.02.04-20.26.09:759][905]LogSavePackage: Moving output files for package: /Game/Levels/Room3
+[2023.02.04-20.26.09:768][905]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Room3D9FD3D1440CF9FA7F94360B723330C41.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room3.umap'
+[2023.02.04-20.26.09:842][905]AssetCheck: New page: Asset Save: Room3
+[2023.02.04-20.26.09:842][905]LogContentValidation: Display: Validating World /Game/Levels/Room3.Room3
+[2023.02.04-20.31.06:696][480]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.02.04-20.31.06:705][480]LogContentBrowser: Creating deferred item: NewWorld
+[2023.02.04-20.31.06:722][481]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.02.04-20.31.10:239][789]LogContentBrowser: Attempting asset rename: NewWorld -> Room4
+[2023.02.04-20.31.10:243][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-20.31.10:245][789]LogContentBrowser: End creating deferred item NewWorld
+[2023.02.04-20.31.11:833][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.02.04-20.31.14:735][924]LogSlate: Window 'Save Content' being destroyed
