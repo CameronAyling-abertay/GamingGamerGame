@@ -5519,3 +5519,383 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.05-16.10.05:976][457]LogPlayLevel: Display: Destroying online subsystem :Context_37
 [2023.02.05-16.10.05:990][457]LogUObjectGlobals: Warning: Failed to find object 'Class None.B_RoomFinal'
 [2023.02.05-16.10.05:992][457]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/InGame/B_RoomFinal.B_RoomFinal'
+[2023.02.05-16.11.28:748][663]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/MainMenu/LoseScreen.LoseScreen
+[2023.02.05-16.11.28:749][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.11.28:756][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.11.28:763][663]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.02.05-16.11.29:174][663]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.05-16.11.29:174][663]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.02.05-16.11.29:352][663]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.02.05-16.11.38:978][452]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.11.38:978][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.11.39:007][452]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.11.39:008][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.11.48:813][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.02.05-16.11.50:281][ 86]LogSlate: Window 'Save Content' being destroyed
+[2023.02.05-16.11.50:331][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/EndRoom" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/EndRoom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-16.11.50:384][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.02.05-16.11.50:539][ 86]LogSavePackage: Moving output files for package: /Game/Levels/EndRoom
+[2023.02.05-16.11.50:547][ 86]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/EndRoom215A8EB541C01B8A731E948D59B2B7E3.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/EndRoom.umap'
+[2023.02.05-16.11.50:602][ 86]LogFileHelpers: Saving map 'EndRoom' took 0.272
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: ================================================
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Total job queries 1348, among them cache hits 808 (59.94%)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Tracking 498 distinct input hashes that result in 120 distinct outputs (24.10%)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Shaders Compiled: 168
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Jobs assigned 498, completed 498 (100.00%)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Average time worker was idle: 19.01 s
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Time job spent in pending queue: average 1.32 s, longest 4.71 s
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 3.88 s
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Job life time (pending + execution): average 2.42 s, max 5.86
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 175.05 s
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Jobs were issued in 498 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Average processing rate: 2.84 jobs/sec
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   45 times, average 1.28 sec, max 1.70 sec, min 0.93 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   33 times, average 1.06 sec, max 1.50 sec, min 0.70 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   11 times, average 1.05 sec, max 1.10 sec, min 0.98 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled   11 times, average 1.04 sec, max 1.11 sec, min 0.97 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   33 times, average 1.01 sec, max 1.38 sec, min 0.70 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.95% of total time (compiled   45 times, average 1.28 sec, max 1.70 sec, min 0.93 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.87% of total time (compiled   33 times, average 1.06 sec, max 1.50 sec, min 0.70 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.50% of total time (compiled   33 times, average 1.01 sec, max 1.38 sec, min 0.70 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.09% of total time (compiled   23 times, average 0.98 sec, max 1.33 sec, min 0.68 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 4.55% of total time (compiled   21 times, average 0.96 sec, max 1.07 sec, min 0.83 sec)
+[2023.02.05-16.11.50:630][ 86]LogShaderCompilers: Display: ================================================
+[2023.02.05-16.11.50:654][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Level1Material" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/Level1Material.uasset" SILENT=true
+[2023.02.05-16.11.50:671][ 86]LogSavePackage: Moving output files for package: /Game/Textures/Level1Material
+[2023.02.05-16.11.50:681][ 86]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Level1Material519BE71C409E1F0FF45DAC9791D902C1.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/Level1Material.uasset'
+[2023.02.05-16.11.50:735][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Level1RockMaterial" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/Level1RockMaterial.uasset" SILENT=true
+[2023.02.05-16.11.50:757][ 86]LogSavePackage: Moving output files for package: /Game/Textures/Level1RockMaterial
+[2023.02.05-16.11.50:766][ 86]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Level1RockMaterial03A8C5DE435E6F00B9EF5DB6F694EFF2.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/Level1RockMaterial.uasset'
+[2023.02.05-16.11.50:779][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.11.50:793][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Room4" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-16.11.50:838][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.02.05-16.11.51:018][ 86]LogSavePackage: Moving output files for package: /Game/Levels/Room4
+[2023.02.05-16.11.51:027][ 86]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/Room44ECA835E476C1F86FE2137A1E561ECE7.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/Room4.umap'
+[2023.02.05-16.11.51:048][ 86]LogFileHelpers: Saving map 'Room4' took 0.270
+[2023.02.05-16.11.51:107][ 86]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LoseLevel.LoseLevel
+[2023.02.05-16.11.51:107][ 86]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.05-16.11.51:108][ 86]LightingResults: New page: Lighting Build
+[2023.02.05-16.11.51:108][ 86]LoadErrors: New page: Loading map: LoseLevel.umap
+[2023.02.05-16.11.51:110][ 86]LogWorld: UWorld::CleanupWorld for EndRoom, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.11.51:110][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.11.51:110][ 86]MapCheck: New page: Map Check
+[2023.02.05-16.11.51:110][ 86]LightingResults: New page: Lighting Build
+[2023.02.05-16.11.51:155][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-16.11.51:159][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.02.05-16.11.51:163][ 86]LogWorld: UWorld::CleanupWorld for Room4, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.11.51:163][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.11.51:163][ 86]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.11.51:163][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.11.51:212][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.02.05-16.11.51:259][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.02.05-16.11.51:273][ 86]LogAudio: Display: Audio Device (ID: 1) registered with world 'LoseLevel'.
+[2023.02.05-16.11.51:273][ 86]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.05-16.11.51:273][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.11.51:274][ 86]LogAIModule: Creating AISystem for world LoseLevel
+[2023.02.05-16.11.51:336][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.05-16.11.51:398][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.02.05-16.11.51:442][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.05-16.11.51:443][ 86]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.779ms to complete.
+[2023.02.05-16.11.51:443][ 86]LogFileHelpers: Loading map 'LoseLevel' took 0.336
+[2023.02.05-16.11.51:500][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.05-16.11.51:500][ 86]LogContentValidation: Display: Validating Material /Game/Textures/Level1Material.Level1Material
+[2023.02.05-16.11.51:500][ 86]LogContentValidation: Display: Validating Material /Game/Textures/Level1RockMaterial.Level1RockMaterial
+[2023.02.05-16.11.51:500][ 86]LogContentValidation: Display: Validating World /Game/Levels/EndRoom.EndRoom
+[2023.02.05-16.11.51:533][ 86]LogContentValidation: Display: Validating World /Game/Levels/Room4.Room4
+[2023.02.05-16.11.51:559][ 86]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.02.05-16.11.52:915][181]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LoseLevel.LoseLevel:PersistentLevel.LoseLevel
+[2023.02.05-16.11.52:915][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.12.02:696][103]LogEditorTransaction: Undo Move Node
+[2023.02.05-16.12.02:723][103]LogMaterial: Display: Missing cached shadermap for Preview:Level3Burrow_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: ED1342A8836A1319CA30B7D925ADE5C571647017), compiling. 
+[2023.02.05-16.12.02:731][103]LogMaterial: Display: Missing cached shadermap for Preview:Level2Burrow_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7207CA2D46A5A25F1DC9DD832331C1341686DF2B), compiling. 
+[2023.02.05-16.12.02:740][103]LogMaterial: Display: Missing cached shadermap for Preview:Level1Burrow_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FA23CC8F6A293127A6137C0C105708011298668C), compiling. 
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: Shader Count: 0
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: Shader Count: 0
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.02:770][103]MaterialEditorStats: Shader Count: 0
+[2023.02.05-16.12.25:807][416]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 //StuHomeOdd/HomeDrive7$/2201287/Desktop/artasset/eggs.png)
+[2023.02.05-16.12.25:839][416]LogTexture: Display: Building textures: /Game/Textures/eggs.eggs (TFO_AutoDXT, 800X800 X1X1) (Required Memory Estimate: 12.207031 MB), EncodeSpeed: Fast
+[2023.02.05-16.12.28:917][698]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.05-16.12.28:917][698]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.05-16.12.29:447][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/eggs" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/eggs.uasset" SILENT=true
+[2023.02.05-16.12.29:509][736]LogSavePackage: Moving output files for package: /Game/Textures/eggs
+[2023.02.05-16.12.29:509][736]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/eggs00E273B242C70A5F4A3135B532822156.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/eggs.uasset'
+[2023.02.05-16.12.29:536][736]AssetCheck: New page: Asset Save: eggs
+[2023.02.05-16.12.29:536][736]LogContentValidation: Display: Validating Texture2D /Game/Textures/eggs.eggs
+[2023.02.05-16.12.31:016][858]LogContentBrowser: Deferred new asset file creation: eggs_Mat
+[2023.02.05-16.12.31:035][858]LogContentBrowser: Creating deferred item: eggs_Mat
+[2023.02.05-16.12.31:049][859]LogContentBrowser: Renaming the item being created (Deferred Item: eggs_Mat).
+[2023.02.05-16.12.37:504][601]LogContentBrowser: Attempting asset rename: eggs_Mat -> eggsMaterial
+[2023.02.05-16.12.37:515][601]LogMaterial: Display: Missing cached shadermap for eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FD088EC41199C60EE78B0BE0CE96A8CBDB279A90), compiling. 
+[2023.02.05-16.12.37:519][601]LogContentBrowser: End creating deferred item eggs_Mat
+[2023.02.05-16.12.37:687][614]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/eggsMaterial.eggsMaterial
+[2023.02.05-16.12.37:689][614]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0DDDC720A7D83CD840E93C8FBEABAFF508E6A448), compiling. 
+[2023.02.05-16.12.37:712][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.12.37:902][614]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3E0D4150089CB38A0AF3F6CE10D089D449712A9C), compiling. 
+[2023.02.05-16.12.37:909][614]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 341E1C1E51884889482F0ACA9A7651ED8BD0FD35), compiling. 
+[2023.02.05-16.12.37:912][614]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 91679DB413EFB22E7205040352852DC396849316), compiling. 
+[2023.02.05-16.12.38:015][614]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-16.12.38:016][614]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.38:016][614]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.38:016][614]MaterialEditorStats: Shader Count: 0
+[2023.02.05-16.12.38:022][614]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.02.05-16.12.38:595][639]MaterialEditorStats: Texture samplers: 1/16
+[2023.02.05-16.12.38:595][639]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.38:595][639]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.38:595][639]MaterialEditorStats: Shader Count: 1
+[2023.02.05-16.12.39:391][688]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-16.12.39:391][688]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.39:391][688]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.39:391][688]MaterialEditorStats: Shader Count: 4
+[2023.02.05-16.12.41:025][823]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 71CAA21DA40ABC167F8974B992F92435345B4D00), compiling. 
+[2023.02.05-16.12.41:050][823]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-16.12.41:050][823]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.41:050][823]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.41:050][823]MaterialEditorStats: Shader Count: 0
+[2023.02.05-16.12.41:099][825]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-16.12.41:099][825]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.41:099][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.41:099][825]MaterialEditorStats: Shader Count: 4
+[2023.02.05-16.12.41:821][879]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 30810DCD3ACBA75DEE997AB78DBB68159A05A1BF), compiling. 
+[2023.02.05-16.12.41:828][879]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E666FDDB82CBB1EC98DAA38DF85ADD2345672A3E), compiling. 
+[2023.02.05-16.12.41:835][879]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 807CF42B53ED5DB2AAF24130EEF82508A5FA2403), compiling. 
+[2023.02.05-16.12.41:844][879]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-16.12.41:844][879]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.41:844][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.41:844][879]MaterialEditorStats: Shader Count: 0
+[2023.02.05-16.12.43:088][958]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-16.12.43:088][958]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.43:088][958]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.43:088][958]MaterialEditorStats: Shader Count: 1
+[2023.02.05-16.12.43:302][973]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FCB483F37DAD0C356D4A96B0C63817866B412DBA), compiling. 
+[2023.02.05-16.12.43:305][973]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D06BBD2F3F5E04833F09A66C52CECC3BBE90046D), compiling. 
+[2023.02.05-16.12.43:308][973]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-16.12.43:308][973]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.43:308][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.43:308][973]MaterialEditorStats: Shader Count: 0
+[2023.02.05-16.12.44:310][ 45]LogMaterialEditor: Saving and Compiling material eggsMaterial
+[2023.02.05-16.12.45:075][ 45]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1B8210F528963CEB6447F756719F0457F207E4AB), compiling. 
+[2023.02.05-16.12.45:090][ 45]LogMaterial: Display: Missing cached shadermap for eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5B0B9C0A4AE40D52E0CD69469AE6F23F0D6573D9), compiling. 
+[2023.02.05-16.12.45:162][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.02.05-16.12.46:270][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.05-16.12.48:644][ 45]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.02.05-16.12.51:851][ 45]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001021s (3.414969s overbudget)
+[2023.02.05-16.12.51:887][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/eggsMaterial" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/eggsMaterial.uasset" SILENT=true
+[2023.02.05-16.12.51:909][ 45]LogSavePackage: Moving output files for package: /Game/Textures/eggsMaterial
+[2023.02.05-16.12.51:910][ 45]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/eggsMaterial8BA5B34640DC8771ED3EFA9EF36285C6.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/eggsMaterial.uasset'
+[2023.02.05-16.12.51:927][ 45]AssetCheck: New page: Asset Save: eggsMaterial
+[2023.02.05-16.12.51:927][ 45]LogContentValidation: Display: Validating Material /Game/Textures/eggsMaterial.eggsMaterial
+[2023.02.05-16.12.51:930][ 45]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.05-16.12.51:930][ 45]MaterialEditorStats: Base pass vertex shader: 277 instructions
+[2023.02.05-16.12.51:931][ 45]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.05-16.12.51:931][ 45]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.12.51:931][ 45]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.12.51:931][ 45]MaterialEditorStats: Shader Count: 26
+[2023.02.05-16.12.53:271][160]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.12.53:272][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.12.58:497][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LoseLevel" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.05-16.12.58:549][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.02.05-16.12.58:634][559]LogSavePackage: Moving output files for package: /Game/Levels/LoseLevel
+[2023.02.05-16.12.58:642][559]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/LoseLevel28445D4243E3A096E1D5D89E465777BF.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/LoseLevel.umap'
+[2023.02.05-16.12.58:720][559]AssetCheck: New page: Asset Save: LoseLevel
+[2023.02.05-16.12.58:720][559]LogContentValidation: Display: Validating World /Game/Levels/LoseLevel.LoseLevel
+[2023.02.05-16.13.04:754][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.02.05-16.13.04:758][ 28]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/EndRoom.EndRoom
+[2023.02.05-16.13.04:758][ 28]Cmd: MAP LOAD FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Levels/EndRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.05-16.13.04:758][ 28]LightingResults: New page: Lighting Build
+[2023.02.05-16.13.04:758][ 28]LoadErrors: New page: Loading map: EndRoom.umap
+[2023.02.05-16.13.04:761][ 28]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.13.04:761][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.13.04:762][ 28]MapCheck: New page: Map Check
+[2023.02.05-16.13.04:762][ 28]LightingResults: New page: Lighting Build
+[2023.02.05-16.13.04:807][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-16.13.04:811][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.02.05-16.13.04:813][ 28]LogWorld: UWorld::CleanupWorld for EndRoom, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.13.04:813][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.13.04:813][ 28]LogWorld: UWorld::CleanupWorld for Room4, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.13.04:814][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.13.04:862][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.02.05-16.13.04:911][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.02.05-16.13.04:918][ 28]LogAudio: Display: Audio Device (ID: 1) registered with world 'EndRoom'.
+[2023.02.05-16.13.04:918][ 28]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.05-16.13.04:918][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.13.04:919][ 28]LogAIModule: Creating AISystem for world EndRoom
+[2023.02.05-16.13.04:941][ 28]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.05-16.13.04:991][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.02.05-16.13.05:031][ 28]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.05-16.13.05:032][ 28]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.707ms to complete.
+[2023.02.05-16.13.05:032][ 28]LogFileHelpers: Loading map 'EndRoom' took 0.274
+[2023.02.05-16.13.05:087][ 28]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.02.05-16.13.37:200][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InGame/B_RoomFinal" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/InGame/B_RoomFinal.uasset" SILENT=true
+[2023.02.05-16.13.37:391][313]LogSavePackage: Moving output files for package: /Game/InGame/B_RoomFinal
+[2023.02.05-16.13.37:399][313]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/B_RoomFinal95379FD94E03504A4BA6098232278EBE.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/InGame/B_RoomFinal.uasset'
+[2023.02.05-16.13.37:428][313]AssetCheck: New page: Asset Save: B_RoomFinal
+[2023.02.05-16.13.37:428][313]LogContentValidation: Display: Validating Blueprint /Game/InGame/B_RoomFinal.B_RoomFinal
+[2023.02.05-16.13.46:097][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/eggsMaterial" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/eggsMaterial.uasset" SILENT=true
+[2023.02.05-16.13.46:115][840]LogSavePackage: Moving output files for package: /Game/Textures/eggsMaterial
+[2023.02.05-16.13.46:122][840]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/eggsMaterialC1B4BA1A4A00749D4647A99C3A0FC581.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/Textures/eggsMaterial.uasset'
+[2023.02.05-16.13.46:146][840]AssetCheck: New page: Asset Save: eggsMaterial
+[2023.02.05-16.13.46:146][840]LogContentValidation: Display: Validating Material /Game/Textures/eggsMaterial.eggsMaterial
+[2023.02.05-16.13.50:237][ 82]LogEditorTransaction: Undo Modify Component(s)
+[2023.02.05-16.13.50:298][ 82]LogMaterial: Display: Missing cached shadermap for Preview:eggsMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6EB3FB660FCB9B53EA74BAC7877D9BEC26E46E06), compiling. 
+[2023.02.05-16.13.50:311][ 82]LogMaterial: Display: Missing cached shadermap for Preview:Level3Burrow_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CBC614294EED6E5DE8E575DD8CF3B850EB01BC86), compiling. 
+[2023.02.05-16.13.50:318][ 82]LogMaterial: Display: Missing cached shadermap for Preview:Level2Burrow_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3C266F8586992DA1A197DB35EF6942EB78F9DAD7), compiling. 
+[2023.02.05-16.13.50:325][ 82]LogMaterial: Display: Missing cached shadermap for Preview:Level1Burrow_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5837F21D74532096840AFE68EAC459912195D3B8), compiling. 
+[2023.02.05-16.13.50:356][ 82]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.05-16.13.50:356][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.02.05-16.13.50:356][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.05-16.13.50:356][ 82]MaterialEditorStats: Shader Count: 0
+[2023.02.05-16.13.53:810][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InGame/B_RoomFinal" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/InGame/B_RoomFinal.uasset" SILENT=true
+[2023.02.05-16.13.53:998][278]LogSavePackage: Moving output files for package: /Game/InGame/B_RoomFinal
+[2023.02.05-16.13.54:006][278]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/B_RoomFinal8D0535FD4AB15907A52990AC2D3A9260.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/InGame/B_RoomFinal.uasset'
+[2023.02.05-16.13.54:036][278]AssetCheck: New page: Asset Save: B_RoomFinal
+[2023.02.05-16.13.54:036][278]LogContentValidation: Display: Validating Blueprint /Game/InGame/B_RoomFinal.B_RoomFinal
+[2023.02.05-16.13.56:950][473]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.05-16.13.56:975][473]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.05-16.13.56:976][473]LogPlayLevel: [PlayLevel] Compiling B_RoomFinal before play...
+[2023.02.05-16.13.57:090][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.02.05-16.13.57:096][473]LogPlayLevel: PlayLevel: Blueprint regeneration took 121 ms (1 blueprints)
+[2023.02.05-16.13.57:096][473]PIE: New page: PIE session: EndRoom (5 Feb 2023, 16:13:57)
+[2023.02.05-16.13.57:096][473]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EndRoom
+[2023.02.05-16.13.57:100][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003240s)
+[2023.02.05-16.13.57:100][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EndRoom.EndRoom to /Game/Levels/UEDPIE_0_EndRoom.EndRoom (0.003362s)
+[2023.02.05-16.13.57:100][473]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.05-16.13.57:100][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.13.57:100][473]LogAIModule: Creating AISystem for world EndRoom
+[2023.02.05-16.13.57:101][473]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2023.02.05-16.13.57:154][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.02.05-16.13.57:155][473]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.02.05-16.13.57:155][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-16.13.57:155][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-16.13.57:155][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-16.13.57:155][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-16.13.57:155][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-16.13.57:155][473]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.05-16.13.57:155][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-16.13.57:155][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-16.13.57:156][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-16.13.57:156][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-16.13.57:156][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-16.13.57:158][473]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.05-16.13.57:185][473]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.02.05-16.13.57:185][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-16.13.57:185][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-16.13.57:185][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-16.13.57:186][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.02.05-16.13.57:186][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.02.05-16.13.57:188][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.02.05-16.13.57:188][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.02.05-16.13.57:188][473]LogInit: FAudioDevice initialized.
+[2023.02.05-16.13.57:188][473]LogAudio: Display: Audio Device (ID: 10) registered with world 'EndRoom'.
+[2023.02.05-16.13.57:204][473]LogLoad: Game class is 'MyGameModeBase_C'
+[2023.02.05-16.13.57:205][473]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndRoom.EndRoom up for play (max tick rate 0) at 2023.02.05-16.13.57
+[2023.02.05-16.13.57:205][473]LogWorld: Bringing up level for play took: 0.000956
+[2023.02.05-16.13.57:207][473]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.02.05-16.13.57:209][473]PIE: Server logged in
+[2023.02.05-16.13.57:209][473]PIE: Play in editor total start time 0.234 seconds.
+[2023.02.05-16.14.08:069][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-16.14.08:069][302]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndRoom
+[2023.02.05-16.14.08:070][302]LogWorld: UWorld::CleanupWorld for EndRoom, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.14.08:071][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.14.08:086][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-16.14.08:092][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.14.08:137][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-16.14.08:137][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.02.05-16.14.08:139][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.02.05-16.14.08:147][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.02.05-16.14.08:236][303]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.02.05-16.14.13:886][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InGame/B_RoomFinal" FILE="M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/InGame/B_RoomFinal.uasset" SILENT=true
+[2023.02.05-16.14.14:074][676]LogSavePackage: Moving output files for package: /Game/InGame/B_RoomFinal
+[2023.02.05-16.14.14:083][676]LogSavePackage: Moving 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Saved/B_RoomFinal637F94D44F912833805E4B9A687799C2.tmp' to 'M:/GameJams/2023GlobalGameJam/GamingGamerGame/GamingGamerGame/Content/InGame/B_RoomFinal.uasset'
+[2023.02.05-16.14.14:110][676]AssetCheck: New page: Asset Save: B_RoomFinal
+[2023.02.05-16.14.14:110][676]LogContentValidation: Display: Validating Blueprint /Game/InGame/B_RoomFinal.B_RoomFinal
+[2023.02.05-16.14.14:636][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.05-16.14.14:661][709]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.05-16.14.14:662][709]LogPlayLevel: [PlayLevel] Compiling B_RoomFinal before play...
+[2023.02.05-16.14.14:771][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.02.05-16.14.14:775][709]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2023.02.05-16.14.14:775][709]PIE: New page: PIE session: EndRoom (5 Feb 2023, 16:14:14)
+[2023.02.05-16.14.14:775][709]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EndRoom
+[2023.02.05-16.14.14:778][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002643s)
+[2023.02.05-16.14.14:778][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EndRoom.EndRoom to /Game/Levels/UEDPIE_0_EndRoom.EndRoom (0.002712s)
+[2023.02.05-16.14.14:778][709]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.05-16.14.14:778][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.14.14:779][709]LogAIModule: Creating AISystem for world EndRoom
+[2023.02.05-16.14.14:779][709]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2023.02.05-16.14.14:826][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.02.05-16.14.14:827][709]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.02.05-16.14.14:827][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-16.14.14:827][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-16.14.14:827][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-16.14.14:827][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-16.14.14:827][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-16.14.14:827][709]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.05-16.14.14:827][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-16.14.14:827][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-16.14.14:828][709]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-16.14.14:828][709]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-16.14.14:828][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-16.14.14:830][709]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.05-16.14.14:854][709]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.02.05-16.14.14:854][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-16.14.14:854][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-16.14.14:854][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-16.14.14:855][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.02.05-16.14.14:855][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.02.05-16.14.14:857][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.02.05-16.14.14:857][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.02.05-16.14.14:857][709]LogInit: FAudioDevice initialized.
+[2023.02.05-16.14.14:857][709]LogAudio: Display: Audio Device (ID: 11) registered with world 'EndRoom'.
+[2023.02.05-16.14.14:887][709]LogLoad: Game class is 'MyGameModeBase_C'
+[2023.02.05-16.14.14:889][709]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EndRoom.EndRoom up for play (max tick rate 0) at 2023.02.05-16.14.14
+[2023.02.05-16.14.14:889][709]LogWorld: Bringing up level for play took: 0.002208
+[2023.02.05-16.14.14:895][709]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.02.05-16.14.14:898][709]PIE: Server logged in
+[2023.02.05-16.14.14:899][709]PIE: Play in editor total start time 0.239 seconds.
+[2023.02.05-16.14.17:588][928]LogNet: Browse: /Game/Levels/WinLevel
+[2023.02.05-16.14.17:588][928]LogLoad: LoadMap: /Game/Levels/WinLevel
+[2023.02.05-16.14.17:588][928]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EndRoom
+[2023.02.05-16.14.17:588][928]LogWorld: UWorld::CleanupWorld for EndRoom, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.14.17:589][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.14.17:695][928]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-16.14.17:699][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.02.05-16.14.17:795][928]LogAudio: Display: Audio Device (ID: 11) registered with world 'WinLevel'.
+[2023.02.05-16.14.17:795][928]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.05-16.14.17:795][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-16.14.17:796][928]LogAIModule: Creating AISystem for world WinLevel
+[2023.02.05-16.14.17:796][928]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2023.02.05-16.14.17:796][928]LogLoad: Game class is 'GameModeBase'
+[2023.02.05-16.14.17:796][928]LogWorld: Bringing World /Game/Levels/UEDPIE_0_WinLevel.WinLevel up for play (max tick rate 0) at 2023.02.05-16.14.17
+[2023.02.05-16.14.17:796][928]LogWorld: Bringing up level for play took: 0.000481
+[2023.02.05-16.14.17:797][928]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.05-16.14.17:798][928]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.05-16.14.17:798][928]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.02.05-16.14.17:798][928]LogLoad: Took 0.210357 seconds to LoadMap(/Game/Levels/WinLevel)
+[2023.02.05-16.14.17:817][928]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.02.05-16.14.18:892][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-16.14.18:892][ 19]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_WinLevel
+[2023.02.05-16.14.18:927][ 19]LogWorld: UWorld::CleanupWorld for WinLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-16.14.18:927][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.14.18:938][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-16.14.18:945][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-16.14.18:990][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.05-16.14.18:990][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.05-16.14.18:992][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.05-16.14.18:996][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-16.14.19:000][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.02.05-16.14.19:086][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.02.05-16.14.21:682][188]LogEditorViewport: Clicking Background
