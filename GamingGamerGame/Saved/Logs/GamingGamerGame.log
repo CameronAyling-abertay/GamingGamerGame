@@ -13469,3 +13469,143 @@ Script Stack (0 frames):
 [2023.02.10-18.02.03:474][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
 [2023.02.10-18.03.02:769][640]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
 [2023.02.10-18.03.03:501][640]LogViewport: Scene viewport resized to 1009x816, mode Windowed.
+[2023.02.10-18.04.30:554][970]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InGame/B_Room.B_Room
+[2023.02.10-18.04.30:555][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.10-18.04.33:324][ 39]LogViewport: Scene viewport resized to 982x581, mode Windowed.
+[2023.02.10-18.05.10:218][509]LogSlate: Window 'B_Room' being destroyed
+[2023.02.10-18.05.10:229][509]LogSlate: Window 'B_Room' being destroyed
+[2023.02.10-18.05.10:244][509]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.05.10:245][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.10-18.07.12:514][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.02.10-18.07.13:713][928]LogSlate: Window 'Save Content' being destroyed
+[2023.02.10-18.07.13:815][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Back/Idle_BACK_Sprite_0
+[2023.02.10-18.07.13:815][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Idle_BACK_Sprite_0BD4EE4B64D72A515CA4E5FAA176D868A.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Back/Idle_BACK_Sprite_0.uasset'
+[2023.02.10-18.07.13:830][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Back/Idle_BACK_Sprite_1
+[2023.02.10-18.07.13:830][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Idle_BACK_Sprite_1D7AB2B1C4CEA67B6C553208EC4BADA94.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Back/Idle_BACK_Sprite_1.uasset'
+[2023.02.10-18.07.13:848][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Front/Idle_FRONT_Sprite_0
+[2023.02.10-18.07.13:849][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Idle_FRONT_Sprite_0FEE3340643183D7B6E24E19624A296FE.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Front/Idle_FRONT_Sprite_0.uasset'
+[2023.02.10-18.07.13:873][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Front/Idle_FRONT_Sprite_1
+[2023.02.10-18.07.13:873][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Idle_FRONT_Sprite_172298EE343FBA1F39FC476974B7F3EDD.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Front/Idle_FRONT_Sprite_1.uasset'
+[2023.02.10-18.07.13:897][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Left/Idle_SIDE_L_Sprite_0
+[2023.02.10-18.07.13:897][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Idle_SIDE_L_Sprite_0719C62DE407BFD6A7E1CBA81C3EDC1DF.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Left/Idle_SIDE_L_Sprite_0.uasset'
+[2023.02.10-18.07.13:921][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Left/Idle_SIDE_L_Sprite_1
+[2023.02.10-18.07.13:921][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Idle_SIDE_L_Sprite_1AD7C42134520D7AF1C357F9B5E25BB52.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Left/Idle_SIDE_L_Sprite_1.uasset'
+[2023.02.10-18.07.13:930][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Right/Idle_SIDE_R_Sprite_0
+[2023.02.10-18.07.13:930][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Idle_SIDE_R_Sprite_0047CA8414221066BBDA7438ED8C4A10B.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Right/Idle_SIDE_R_Sprite_0.uasset'
+[2023.02.10-18.07.13:969][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Right/Idle_SIDE_R_Sprite_1
+[2023.02.10-18.07.13:969][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Idle_SIDE_R_Sprite_106AB79C648D5131560B0DBBC95393DDF.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Right/Idle_SIDE_R_Sprite_1.uasset'
+[2023.02.10-18.07.13:973][928]LogSavePackage: Moving output files for package: /Game/Animation/PlayerWalkBack
+[2023.02.10-18.07.13:975][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/PlayerWalkBackAE3B0BDF41156015EC39568564D04E8E.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Animation/PlayerWalkBack.uasset'
+[2023.02.10-18.07.13:985][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_0
+[2023.02.10-18.07.13:985][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_BACK_Walk_BACK_005E3299045811EE7629091BE46885684.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_0.uasset'
+[2023.02.10-18.07.13:999][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_1
+[2023.02.10-18.07.13:999][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_BACK_Walk_BACK_11C7FC81F4AAFA94C5180DCAE7A204988.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_1.uasset'
+[2023.02.10-18.07.14:009][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_2
+[2023.02.10-18.07.14:009][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_BACK_Walk_BACK_25B4F4B1D4B73FCC8781474943EBE0472.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_2.uasset'
+[2023.02.10-18.07.14:019][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_3
+[2023.02.10-18.07.14:019][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_BACK_Walk_BACK_3ABCB1B9B4E3E3C6B0596A1BF4A78B179.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_3.uasset'
+[2023.02.10-18.07.14:036][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_4
+[2023.02.10-18.07.14:036][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_BACK_Walk_BACK_47D2A79D849B117BD1C1FFCB266232004.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_4.uasset'
+[2023.02.10-18.07.14:072][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_0
+[2023.02.10-18.07.14:072][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_FRONT_Walk_FRONT_078B07A874D4B45E2EBA7FCB9BB7AEDD8.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_0.uasset'
+[2023.02.10-18.07.14:098][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_1
+[2023.02.10-18.07.14:098][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_FRONT_Walk_FRONT_180BA2B6E45D9EA0051C8C080359D6C09.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_1.uasset'
+[2023.02.10-18.07.14:116][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_2
+[2023.02.10-18.07.14:117][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_FRONT_Walk_FRONT_23235EB524392D952EECEC19C7F13D6AC.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_2.uasset'
+[2023.02.10-18.07.14:127][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_3
+[2023.02.10-18.07.14:127][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_FRONT_Walk_FRONT_3262CCCCB439B3BC15BC65B957A82A8B9.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_3.uasset'
+[2023.02.10-18.07.14:148][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_4
+[2023.02.10-18.07.14:148][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_FRONT_Walk_FRONT_46ACA6E03429E40B778FD5E9B40C9100F.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_4.uasset'
+[2023.02.10-18.07.14:159][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_0
+[2023.02.10-18.07.14:159][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_L_Walk_Side_L_0E397A91A4F3FCA79DE67609FF4F35855.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_0.uasset'
+[2023.02.10-18.07.14:174][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_1
+[2023.02.10-18.07.14:174][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_L_Walk_Side_L_136F805D046AF9CCE46FBFCA51D96D6C9.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_1.uasset'
+[2023.02.10-18.07.14:184][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_2
+[2023.02.10-18.07.14:184][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_L_Walk_Side_L_2FB8FFD7043CC1927586094A4A97A6829.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_2.uasset'
+[2023.02.10-18.07.14:213][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_3
+[2023.02.10-18.07.14:213][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_L_Walk_Side_L_3C913E1D640078504734E61BF694FD3C6.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_3.uasset'
+[2023.02.10-18.07.14:236][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_4
+[2023.02.10-18.07.14:236][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_L_Walk_Side_L_49331909C4D8F5C053FAB129F4800D810.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_4.uasset'
+[2023.02.10-18.07.14:250][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_0
+[2023.02.10-18.07.14:250][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_R__Walk_SIDE_R_0B2B9800647F8B1C396984688E3D6F2C1.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_0.uasset'
+[2023.02.10-18.07.14:264][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_1
+[2023.02.10-18.07.14:264][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_R__Walk_SIDE_R_15B13A0B043C3AB985912CF816ECAD975.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_1.uasset'
+[2023.02.10-18.07.14:274][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_2
+[2023.02.10-18.07.14:274][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_R__Walk_SIDE_R_28793D5CA40BB3E58381115975836DA64.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_2.uasset'
+[2023.02.10-18.07.14:290][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_3
+[2023.02.10-18.07.14:290][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_R__Walk_SIDE_R_3E620304C43204BFA187F0184405B25AB.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_3.uasset'
+[2023.02.10-18.07.14:299][928]LogSavePackage: Moving output files for package: /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_4
+[2023.02.10-18.07.14:299][928]LogSavePackage: Moving '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Saved/Walk_SIDE_R__Walk_SIDE_R_41AA6B86B45BD26C9E66E8C8B4A8E3458.tmp' to '../../../../../../Users/The Dark Tower/Documents/Random stuff/New folder/GamingGamerGame/GamingGamerGame/Content/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_4.uasset'
+[2023.02.10-18.07.14:313][928]LogStall: Shutdown...
+[2023.02.10-18.07.14:333][928]LogStall: Shutdown complete.
+[2023.02.10-18.07.14:500][928]LogSlate: Window 'GamingGamerGame - Unreal Editor' being destroyed
+[2023.02.10-18.07.15:762][928]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.10-18.07.15:762][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Back/Idle_BACK_Sprite_1.Idle_BACK_Sprite_1
+[2023.02.10-18.07.15:762][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Back/Idle_BACK_Sprite_0.Idle_BACK_Sprite_0
+[2023.02.10-18.07.15:762][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_4.Walk_SIDE_L_Walk_Side_L_4
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_3.Walk_SIDE_L_Walk_Side_L_3
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_2.Walk_SIDE_L_Walk_Side_L_2
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_1.Walk_SIDE_L_Walk_Side_L_1
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Left/Walk_SIDE_L_Walk_Side_L_0.Walk_SIDE_L_Walk_Side_L_0
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_4.Walk_FRONT_Walk_FRONT_4
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_3.Walk_FRONT_Walk_FRONT_3
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_2.Walk_FRONT_Walk_FRONT_2
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_1.Walk_FRONT_Walk_FRONT_1
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Front/Walk_FRONT_Walk_FRONT_0.Walk_FRONT_Walk_FRONT_0
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_4.Walk_BACK_Walk_BACK_4
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_3.Walk_BACK_Walk_BACK_3
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_2.Walk_BACK_Walk_BACK_2
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_1.Walk_BACK_Walk_BACK_1
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Back/Walk_BACK_Walk_BACK_0.Walk_BACK_Walk_BACK_0
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_4.Walk_SIDE_R__Walk_SIDE_R_4
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_3.Walk_SIDE_R__Walk_SIDE_R_3
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_2.Walk_SIDE_R__Walk_SIDE_R_2
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_1.Walk_SIDE_R__Walk_SIDE_R_1
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Right/Walk_SIDE_R__Walk_SIDE_R_0.Walk_SIDE_R__Walk_SIDE_R_0
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperFlipbook /Game/Animation/PlayerWalkBack.PlayerWalkBack
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Right/Idle_SIDE_R_Sprite_1.Idle_SIDE_R_Sprite_1
+[2023.02.10-18.07.15:763][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Right/Idle_SIDE_R_Sprite_0.Idle_SIDE_R_Sprite_0
+[2023.02.10-18.07.15:764][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Front/Idle_FRONT_Sprite_1.Idle_FRONT_Sprite_1
+[2023.02.10-18.07.15:764][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Front/Idle_FRONT_Sprite_0.Idle_FRONT_Sprite_0
+[2023.02.10-18.07.15:764][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Left/Idle_SIDE_L_Sprite_1.Idle_SIDE_L_Sprite_1
+[2023.02.10-18.07.15:764][928]LogContentValidation: Display: Validating PaperSprite /Game/Textures/Animations/Player/Left/Idle_SIDE_L_Sprite_0.Idle_SIDE_L_Sprite_0
+[2023.02.10-18.07.15:771][929]Cmd: QUIT_EDITOR
+[2023.02.10-18.07.15:772][929]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.10-18.07.15:849][929]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.10-18.07.15:857][929]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.02.10-18.07.15:861][929]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.02.10-18.07.16:843][929]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.10-18.07.16:843][929]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.10-18.07.16:843][929]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2023.02.10-18.07.16:843][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.10-18.07.16:848][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.10-18.07.16:863][929]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.10-18.07.16:963][929]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.10-18.07.17:071][929]LogExit: Preparing to exit.
+[2023.02.10-18.07.17:348][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.10-18.07.17:376][929]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:376][929]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:380][929]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:381][929]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:382][929]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:382][929]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:382][929]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:382][929]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:382][929]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:382][929]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.17:382][929]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.10-18.07.19:309][929]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:316][929]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:322][929]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:328][929]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:335][929]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:342][929]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:351][929]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:359][929]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:366][929]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:432][929]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.10-18.07.19:592][929]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.02.10-18.07.19:884][929]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.10-18.07.19:908][929]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.10-18.07.20:018][929]LogExit: Editor shut down
+[2023.02.10-18.07.20:041][929]LogExit: Transaction tracking system shut down
